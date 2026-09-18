@@ -1,0 +1,6 @@
+{
+  "name": "Kirana Store Manager",
+  "description": "Real-time inventory management, essential supplies tracking, and daily sales tracking for Kirana store owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

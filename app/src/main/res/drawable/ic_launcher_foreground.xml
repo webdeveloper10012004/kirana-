@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Store Awning roof (Safe area: 24 to 84 horizontally, 24 to 84 vertically) -->
+    <!-- Awning Base Bar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,37 L78,37 C79.1,37 80,37.9 80,39 L80,41 L28,41 L28,39 C28,37.9 28.9,37 30,37 Z" />
+    
+    <!-- Awning stripes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,41 L35,50 C36,52.5 39,52.5 40,50 L42,41 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M42,41 L43.5,50 C44.5,52.5 47.5,52.5 48.5,50 L50,41 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,41 L51.5,50 C52.5,52.5 55.5,52.5 56.5,50 L58,41 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M58,41 L59.5,50 C60.5,52.5 63.5,52.5 64.5,50 L66,41 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,41 L68,50 C69,52.5 72,52.5 73,50 L77,41 Z" />
+
+    <!-- Store Frame / Counter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,53 L76,53 C77.1,53 78,53.9 78,55 L78,75 C78,76.1 77.1,77 76,77 L32,77 C30.9,77 30,76.1 30,75 L30,55 C30,53.9 30.9,53 32,53 Z" />
+
+    <!-- Grocery Shopping Bag / Essentials Shelf inside Store -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M38,62 L70,62 L67,73 L41,73 Z" />
+    
+    <!-- Shopping bag handle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E65100"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M48,62 C48,58.5 60,58.5 60,62" />
+
+    <!-- Real-time check/spark indicator for stock & instant updates -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M66,31 L75,31 C76.1,31 77,31.9 77,33 L77,42 C77,43.1 76.1,44 75,44 L66,44 C64.9,44 64,43.1 64,42 L64,33 C64,31.9 64.9,31 66,31 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67.5,37.5 L70,40 L73.5,35 L74.8,36.2 L70,42.5 L66.2,38.7 Z" />
+</vector>
